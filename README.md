@@ -1,2 +1,2 @@
 # NETFLIX
-![alt text](https://ibb.co/JdfrG6L)
+![Alt text](https://ibb.co/JdfrG6L?raw=true "Title")
