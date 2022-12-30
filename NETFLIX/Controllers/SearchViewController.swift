@@ -55,7 +55,7 @@ class SearchViewController: UIViewController {
                 self.discoverTableView.reloadData()
             }
         }
-        
+        //dfsdfs
         searchBar.searchResultsUpdater = self
     }
     func searchBarBookmarkButtonClicked(_ searchBar: UISearchBar) {
