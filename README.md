@@ -1,2 +1,2 @@
 # NETFLIX
-![alt text](https://github.com/[mesutAygun1881]/[NETFLIX]/blob/[main]/screen1.jpg?raw=true)
+![alt text](https://github.com/[mesutAygun1881]/[NETFLIX]/assest/[main]/screen1.jpg?raw=true)
